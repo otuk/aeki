@@ -1,3 +1,14 @@
+#temporary files
+*.*~
+
+
+#logfiles
+log.*
+
+#datafiles
+data.*
+
+
 # Object files
 *.o
 *.ko
